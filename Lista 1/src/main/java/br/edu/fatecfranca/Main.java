@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-package org.example;
+package br.edu.fatecfranca;
 
 public class Main {
     public Main() {
