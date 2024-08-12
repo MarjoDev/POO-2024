@@ -15,11 +15,13 @@ public class Main {
         obj1.frear(20);
         obj1.frear(20);
         obj1.frear(20);
+        System.out.println(obj1);
 
         obj2.acelerar(50);
         obj2.frear(20);
         obj2.frear(20);
         obj2.frear(20);
+        System.out.println(obj2);
 
         Carro obj3 = new Carro();
     }

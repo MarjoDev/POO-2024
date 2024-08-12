@@ -39,4 +39,8 @@ public class Carro {
             System.out.println("Carro não pode ter velocidade negativa");
         }
     }
+    public String toString(){
+        return "Marca: " + this.marca + " Modelo: " + this.modelo +
+                " Cor: " + this.cor + " Ano: " + this.ano + " Velocidade: " + this.velocidade;
+    }
 }
