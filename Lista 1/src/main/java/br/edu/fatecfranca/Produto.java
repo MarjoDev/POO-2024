@@ -7,7 +7,7 @@ public class Produto {
     public float preco;
 
     public Produto(){
-        this.id = 0;
+        this.id = Integer.parseInt(null);
         this.descricao = "Não definido";
         this.qtde = 0;
         this.preco = 0;
