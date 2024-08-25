@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8885159-5caf-4e8a-9e2b-fde14a283f0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lista 2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/TesteAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/TesteCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-2/src/main/java/br/edu/fatecfranca/exe0/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-2/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista-2/target/classes/br/edu/fatecfranca/exe0/Aluno.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +42,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MarjoDev/POO-2024.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/MarjoDev/POO-2024&quot;,
     &quot;accountId&quot;: &quot;353e39b8-a538-4bbb-998b-a7bd94cce65b&quot;
   }
 }</component>
@@ -46,29 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaAluno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaCliente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaProduto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestaRio.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;F:/program files/IntelliJ IDEA 2024.1.4/ideia-projects/POO-2024-/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.TestaAluno.executor": "Run",
+    "Application.TestaCliente.executor": "Run",
+    "Application.TestaProduto.executor": "Run",
+    "Application.TestaRio.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.TesteAluno.executor": "Run",
+    "Application.TesteCliente.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 2/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marjo\OneDrive\Documentos\GitHub\POO-2024\Lista 2\src\main\java\br\edu\fatecfranca" />
       <recent name="F:\program files\IntelliJ IDEA 2024.1.4\ideia-projects\POO-2024-\Lista 1" />
     </key>
   </component>
@@ -95,6 +111,8 @@
       <workItem from="1723597098834" duration="4226000" />
       <workItem from="1723944264014" duration="4538000" />
       <workItem from="1724071633922" duration="920000" />
+      <workItem from="1724075554750" duration="1251000" />
+      <workItem from="1724537517267" duration="3704000" />
     </task>
     <servers />
   </component>
@@ -111,6 +129,11 @@
           <url>file://$PROJECT_DIR$/Lista 1/src/main/java/br/edu/fatecfranca/Main.java</url>
           <line>26</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lista-2/src/Teste.class</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
