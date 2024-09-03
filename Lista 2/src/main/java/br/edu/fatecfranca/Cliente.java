@@ -8,10 +8,10 @@ public class Cliente {
 
     // Construtor com parâmetros
     public Cliente(String numeroConta, String numeroAgencia, String nome, float saldo) {
-        setNumeroConta(numeroConta);
-        setNumeroAgencia(numeroAgencia);
-        setNome(nome);
-        setSaldo(saldo);
+        this.numeroConta = numeroConta;
+        this.numeroAgencia = numeroAgencia;
+        this.nome = nome;
+        this.saldo = saldo;
     }
 
     // Construtor sem argumentos (default)
