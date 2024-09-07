@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8885159-5caf-4e8a-9e2b-fde14a283f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista 3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe0/CarItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe0/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe0/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/Assistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Forum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe2/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe2/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe2/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe2/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe3/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe3/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 2/src/main/java/br/edu/fatecfranca/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,32 +55,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Application.TestaAluno.executor": "Run",
-    "Application.TestaCliente.executor": "Run",
-    "Application.TestaProduto.executor": "Run",
-    "Application.TestaRio.executor": "Run",
-    "Application.Teste.executor": "Run",
-    "Application.TesteAluno.executor": "Run",
-    "Application.TesteCliente.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 3/src",
-    "last_opened_file_path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 4/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaAluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaProduto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaRio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCliente.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 3/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 4/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marjo\OneDrive\Documentos\GitHub\POO-2024\Lista 2\src\main\java\br\edu\fatecfranca" />
@@ -113,7 +115,8 @@
       <workItem from="1724673547879" duration="169000" />
       <workItem from="1724673944225" duration="23000" />
       <workItem from="1724677536783" duration="3282000" />
-      <workItem from="1725369512321" duration="2409000" />
+      <workItem from="1725369512321" duration="2689000" />
+      <workItem from="1725745798195" duration="765000" />
     </task>
     <servers />
   </component>
