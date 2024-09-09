@@ -5,6 +5,7 @@ public class Assistente extends Funcionario {
 
     public Assistente() {
         super();
+        this.horaExtra = 0;
     }
 
     public Assistente(String nome, String endereco, String cpf, float salario, float horaExtra) {
@@ -22,7 +23,10 @@ public class Assistente extends Funcionario {
 
     @Override
     public String toString() {
-        return super.toString() + "\nHora Extra: " + horaExtra;
+        return "Assistente{" +
+                super.toString() +
+                ", Hora extra=" + horaExtra +
+                '}';
     }
 
     @Override

@@ -57,13 +57,10 @@ public class Funcionario {
                 "nome='" + nome + '\'' +
                 ", endereco='" + endereco + '\'' +
                 ", cpf='" + cpf + '\'' +
-                ", salario=" + salario +
+                ", salario=" + calcularSalario() +
                 '}';
     }
 
-    public float retornaSalario() {
-        return this.salario;
-    }
     public float calcularSalario() {
         return this.getSalario();
     }
