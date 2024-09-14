@@ -1,7 +1,4 @@
-import br.edu.fatecfranca.Assistente;
-import br.edu.fatecfranca.Funcionario;
-import br.edu.fatecfranca.Gerente;
-import br.edu.fatecfranca.Diretor;
+package br.edu.fatecfranca.exe0;
 
 import java.util.ArrayList;
 import java.util.List;

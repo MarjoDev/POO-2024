@@ -1,4 +1,4 @@
-package br.edu.fatecfranca;
+package br.edu.fatecfranca.exe0;
 
 public class Assistente extends Funcionario {
     private float horaExtra;

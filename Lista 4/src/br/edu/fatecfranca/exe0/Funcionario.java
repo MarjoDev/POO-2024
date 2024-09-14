@@ -1,6 +1,6 @@
-package br.edu.fatecfranca;
+package br.edu.fatecfranca.exe0;
 
-public class Funcionario {
+public abstract class Funcionario {
     protected String nome;
     protected String endereco;
     protected String cpf;
@@ -61,7 +61,5 @@ public class Funcionario {
                 '}';
     }
 
-    public float calcularSalario() {
-        return this.getSalario();
-    }
+    public abstract float calcularSalario();
 }
