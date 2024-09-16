@@ -23,6 +23,7 @@ public class Aluno {
     public void dadosAluno(){
         System.out.println("Aluno: " + nomeAluno + " Numero Aluno: " + numeroAluno + " Idade Aluno: " + idadeAluno) ;
     }
-    
+
+
 }
 
