@@ -5,49 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8885159-5caf-4e8a-9e2b-fde14a283f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o1/TestaAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o2/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o2/TestaCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o3/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o3/TestaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o4/Rio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe1o4/TestaRio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe2o1/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe2o1/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe2o2/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe2o2/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o1/Forum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o1/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o2/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o2/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o2/Disciplina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o2/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o3/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o3/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe3o3/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o2/Aniversario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o2/CartaoWeb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o2/DiaDosNamorados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o2/Natal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o2/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino-prova/src/br/edu/fatecfranca/exe4o3/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Cidadao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Cidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Contribuinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/TestaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/TestaPessoaCidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe01/questoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe02/questoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe03/AdaptadorTomada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe03/TestaAdaptador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe03/TomadaDeDoisPinos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 5/src/br/edu/fatecfranca/exe03/TomadaDeTresPinos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 1/src/main/java/br/edu/fatecfranca/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 1/src/main/java/br/edu/fatecfranca/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1o1/Forum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1o1/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 3/src/br/edu/fatecfranca/exe1o1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1/Ator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1o1/Ator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1/AtorFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1o1/AtorFeliz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1/AtorTriste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1o1/AtorTriste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1/Palco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1o1/Palco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe1o1/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista 4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista 4/br/edu/fatecfranca/Assistente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista 4/br/edu/fatecfranca/Diretor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista 4/br/edu/fatecfranca/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista 4/br/edu/fatecfranca/Gerente.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +68,11 @@
     "Application.Jogo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Programa.executor": "Run",
+    "Application.TestaAdaptador.executor": "Run",
     "Application.TestaAluno.executor": "Run",
     "Application.TestaCliente.executor": "Run",
+    "Application.TestaPessoa.executor": "Run",
+    "Application.TestaPessoaCidade.executor": "Run",
     "Application.TestaProduto.executor": "Run",
     "Application.TestaRio.executor": "Run",
     "Application.Teste.executor": "Run",
@@ -112,7 +89,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/treino-prova/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/marjo/OneDrive/Documentos/GitHub/POO-2024/Lista 5/src/Main.java",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
@@ -160,7 +137,8 @@
       <workItem from="1726429390620" duration="11661000" />
       <workItem from="1726451223891" duration="2191000" />
       <workItem from="1726493715103" duration="1865000" />
-      <workItem from="1726521930773" duration="2947000" />
+      <workItem from="1726521930773" duration="3167000" />
+      <workItem from="1727578223592" duration="1488000" />
     </task>
     <servers />
   </component>
@@ -187,6 +165,11 @@
           <url>file://$PROJECT_DIR$/Lista 4/src/br/edu/fatecfranca/exe0/Main.java</url>
           <line>44</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lista 5/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

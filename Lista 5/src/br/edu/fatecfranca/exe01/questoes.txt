@@ -1,0 +1,4 @@
+g) Testando a falta de implementação de métodos
+Se você deixar de implementar algum método das interfaces, como vota() ou getRG(),
+o compilador vai dar erro, exigindo a implementação, uma vez que a classe Pessoa está declarada
+como implementando as interfaces Cidadao, Contribuinte, e Professor.

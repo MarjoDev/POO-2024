@@ -1,0 +1,5 @@
+Questão 3:
+A principal diferença entre uma interface e uma classe abstrata
+é que uma interface define apenas métodos abstratos (sem implementação, exceto métodos default ou static),
+enquanto uma classe abstrata pode ter tanto métodos abstratos quanto concretos (com implementação).
+Além disso, uma classe pode implementar várias interfaces, mas só pode estender uma única classe abstrata.
